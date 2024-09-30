@@ -15,11 +15,12 @@ None
 3. How could you specify the port?
 4. Remember, passwords are hidden when typed into the shell
 # Solution
-First, we have to know how to connect to a port using SSH, which can be found by entering 'ssh' in the terminal, which brings up this page:
+First, I have to know how to connect to a port using SSH, which can be found by entering 'ssh' in the terminal, which brings up this page:
+
 ![alt text](image.png)
 
-We can see that using -p allows us to enter a port number afterwards, so that's how you connect to a port.In order to ssh as ctf-player to titan.picoctf.net, we simply just have to add '@' between them. Thus, our command is 'ssh -p 62072 ctf-player@titan.picoctf.net', resulting in the following:
+I see that using -p allows us to enter a port number afterwards, so that's how you connect to a port. In order to ssh as ctf-player to titan.picoctf.net, I simply just have to add '@' between them. Thus, the command is 'ssh -p 62072 ctf-player@titan.picoctf.net', resulting in the following:
 
 ![alt text](image-1.png)
 
-Now we know that the flag is picoCTF{s3cur3_c0nn3ct10n_3e293eea}.
+Now I know that the flag is picoCTF{s3cur3_c0nn3ct10n_3e293eea}.
