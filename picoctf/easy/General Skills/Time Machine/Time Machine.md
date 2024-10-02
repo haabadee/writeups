@@ -4,7 +4,7 @@ General Skills
 # Description
 What was I last working on? I remember writing a note to help me remember...
 # Files
-[text](challenge.zip)
+[challenge.zip](challenge.zip)
 # Hints
 1. The cat command will let you read a file, but that won't help you here!
 2. Read the chapter on Git from the picoPrimer here. (https://primer.picoctf.org/#_git_version_control)

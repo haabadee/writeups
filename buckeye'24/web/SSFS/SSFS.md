@@ -5,7 +5,7 @@ web
 I made a file server to easily share my files with my friends. Nobody has hacked it yet, so I'm sure it's secure.
 # Files
 ssfs.challs.pwnoh.io
-[text](SSFS.zip)
+[SSFS.zip](SSFS.zip)
 # Solution
 The website is just a simple file sharing platform, where you can upload files and search for uploaded files. Next, after I unzip the file, I look at the app.py file to see how the website is actually handling these files. Since only the flag.txt file really matters, I see that the website stores it under ssfs.challs.pwnoh.io/download/<file path>. 
 

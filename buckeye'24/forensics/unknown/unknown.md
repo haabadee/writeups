@@ -4,7 +4,7 @@ forensics
 # Description
 Some may call this junk. Me, I call them treasures.
 # Files
-[text](unknown.zip)
+[unknown.zip](unknown.zip)
 # Solution
 Since I'm given a zip file, the first thing I do is to unzip it:
 

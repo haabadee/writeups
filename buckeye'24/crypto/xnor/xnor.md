@@ -4,14 +4,10 @@ crypto
 # Description
 XNOR! It's like XOR, but it's actually the complete opposite.
 # Files
-[text](xnor.py)
-[text](xnor_output.txt)
+[xnor.py](xnor.py)
+[xnor_output.txt](xnor_output.txt)
 # Solution
-After going through the files provided, it's evident that xnor.py is a encryption function that requires a key. However, the key is redacted in the output file, so I have to work backwards with the message and its corresponding encrypted message to find the right key. In order to do this, I used the original xnor.py file and modified it a bit so that it would produce the key, and then figure out the decrypted flag from the key.
-
-[text](ans.py)
-
-After running this python script with python3 ans.py, the following is outputted:
+After going through the files provided, it's evident that xnor.py is a encryption function that requires a key. However, the key is redacted in the output file, so I have to work backwards with the message and its corresponding encrypted message to find the right key. In order to do this, I used the original xnor.py file and [modified](ans.py) it a bit so that it would produce the key, and then figure out the decrypted flag from the key. After running this python script with python3 ans.py, the following is outputted:
 
 ![alt text](image.png)
 

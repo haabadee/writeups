@@ -6,7 +6,7 @@ What's your favorite color?
 
 nc challs.pwnoh.io 13370
 # Files
-color.zip
+[color.zip](color.zip)
 # Solution
 After downloading the zip file, I immediately unzip it, and there I can find the source code to see what the program is doing:
 
