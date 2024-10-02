@@ -7,7 +7,7 @@ Cyber security often has a huge amount of data to look through - from logs, vuln
 ssh -p 57027 ctf-player@atlas.picoctf.net
 Using the password f3b61b38. Accept the fingerprint with yes, and ls once connected to begin. Remember, in a shell, passwords are hidden!
 # Files
-Not required
+None
 # Hints
 1. Have you ever played hot or cold? Binary search is a bit like that.
 2. You have a very limited number of guesses. Try larger jumps between numbers!

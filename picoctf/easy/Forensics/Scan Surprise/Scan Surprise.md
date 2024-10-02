@@ -7,7 +7,7 @@ The same files are accessible via SSH here:
 ssh -p 49628 ctf-player@atlas.picoctf.net
 Using the password f3b61b38. Accept the fingerprint with yes, and ls once connected to begin. Remember, in a shell, passwords are hidden!
 # Files
-Not required
+None
 # Hints
 1. QR codes are a way of encoding data. While they're most known for storing URLs, they can store other things too.
 2. Mobile phones have included native QR code scanners in their cameras since version 8 (Oreo) and iOS 11
