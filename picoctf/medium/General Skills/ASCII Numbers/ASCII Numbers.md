@@ -14,4 +14,4 @@ Since I know that the ASCII numbers need to be converted into a string, I can us
 
 ![alt text](image.png)
 
-Now I know that the flag is picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}.
+Now I know that the flag is `picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}`.
